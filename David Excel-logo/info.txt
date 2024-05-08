@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Quicksand-Regular
+font link: https://www.fontsquirrel.com/fonts/quicksand
+font author: Andrew Paglinawan
+font author site: http://andrewpaglinawan.com/
+Slogan Font: OFLGoudyStMTT.ttf
+
+icon designer: Alice Cerconi
+icon designer link: /alice.cerconi
+        
+{"bg":"#E1F3FC","icon-gradient-0":"#0076DD","icon-gradient-1":"#00CDE9","font":"#012B3D","slogan":"#153f51"}
+      

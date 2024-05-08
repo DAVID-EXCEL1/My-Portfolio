@@ -474,6 +474,9 @@ nav .fas {
     .copyright {
         font-size: 14px;
     }
+    #dont-show {
+        display: none;
+    }
 }
 
 #msg {
